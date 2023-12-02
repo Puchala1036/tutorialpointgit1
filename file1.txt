@@ -1,0 +1,5 @@
+#! /bin/bash
+Hello world2 
+nice to see you
+god may bless you
+

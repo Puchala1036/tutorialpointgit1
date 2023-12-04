@@ -1,5 +1,5 @@
 #! /bin/bash
-Hello world2 
+Hello world1 this for conflict 
 nice to see you
 god may bless you
 

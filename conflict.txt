@@ -1,2 +1,4 @@
 #! /bin/bash
+this is for stage2 conflict
 this is for stage1 conflict
+

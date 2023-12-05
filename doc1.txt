@@ -1,3 +1,6 @@
 #! /bin/bash
 hello world
 it is feather2 branch
+werty
+dfghjk
+ghjk
